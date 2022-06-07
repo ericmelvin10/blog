@@ -1,5 +1,4 @@
-# baseURL: "https://ericmelvin10.github.io"
-baseURL: "https://github.com/ericmelvin10/blog"
+baseURL: "https://ericmelvin10.github.io/blog/"
 title: Ericmelvin10's page
 paginate: 5
 theme: PaperMod
