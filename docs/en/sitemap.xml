@@ -2,114 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ericmelvin10/blog/en/</loc>
-    <lastmod>2022-05-23T15:31:00+02:00</lastmod>
+    <loc>https://ericmelvin10.github.io/blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/ericmelvin10/blog/"
+                href="https://ericmelvin10.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="https://github.com/ericmelvin10/blog/cat/"
+                href="https://ericmelvin10.github.io/blog/cat/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/ericmelvin10/blog/en/"
+                href="https://ericmelvin10.github.io/blog/en/categories/"
                 />
   </url><url>
-    <loc>https://github.com/ericmelvin10/blog/en/tags/personal/</loc>
-    <lastmod>2022-05-23T15:31:00+02:00</lastmod>
+    <loc>https://ericmelvin10.github.io/blog/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/ericmelvin10/blog/tags/personal/"
+                href="https://ericmelvin10.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="https://github.com/ericmelvin10/blog/cat/tags/personal/"
+                href="https://ericmelvin10.github.io/blog/cat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/ericmelvin10/blog/en/tags/personal/"
+                href="https://ericmelvin10.github.io/blog/en/"
                 />
   </url><url>
-    <loc>https://github.com/ericmelvin10/blog/en/posts/</loc>
-    <lastmod>2022-05-23T15:31:00+02:00</lastmod>
+    <loc>https://ericmelvin10.github.io/blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/ericmelvin10/blog/posts/"
+                href="https://ericmelvin10.github.io/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cat"
-                href="https://github.com/ericmelvin10/blog/cat/posts/"
+                href="https://ericmelvin10.github.io/blog/cat/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/ericmelvin10/blog/en/posts/"
-                />
-  </url><url>
-    <loc>https://github.com/ericmelvin10/blog/en/tags/</loc>
-    <lastmod>2022-05-23T15:31:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://github.com/ericmelvin10/blog/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://github.com/ericmelvin10/blog/cat/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://github.com/ericmelvin10/blog/en/tags/"
-                />
-  </url><url>
-    <loc>https://github.com/ericmelvin10/blog/en/tags/welcome/</loc>
-    <lastmod>2022-05-23T15:31:00+02:00</lastmod>
-  </url><url>
-    <loc>https://github.com/ericmelvin10/blog/en/posts/welcome/</loc>
-    <lastmod>2022-05-23T15:31:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://github.com/ericmelvin10/blog/posts/welcome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://github.com/ericmelvin10/blog/cat/posts/welcome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://github.com/ericmelvin10/blog/en/posts/welcome/"
-                />
-  </url><url>
-    <loc>https://github.com/ericmelvin10/blog/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://github.com/ericmelvin10/blog/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://github.com/ericmelvin10/blog/cat/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://github.com/ericmelvin10/blog/en/categories/"
+                href="https://ericmelvin10.github.io/blog/en/tags/"
                 />
   </url>
 </urlset>

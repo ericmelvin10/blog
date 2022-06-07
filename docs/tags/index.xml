@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Página personal de Ericmelvin10</title>
-    <link>https://github.com/ericmelvin10/blog/tags/</link>
+    <link>https://ericmelvin10.github.io/blog/tags/</link>
     <description>Recent content in Tags on Página personal de Ericmelvin10</description>
     <image>
-      <url>https://github.com/ericmelvin10/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/ericmelvin10/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ericmelvin10.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ericmelvin10.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 May 2022 15:31:00 +0200</lastBuildDate><atom:link href="https://github.com/ericmelvin10/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 15:31:00 +0200</lastBuildDate><atom:link href="https://ericmelvin10.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bienvenida</title>
-      <link>https://github.com/ericmelvin10/blog/tags/bienvenida/</link>
+      <link>https://ericmelvin10.github.io/blog/tags/bienvenida/</link>
       <pubDate>Mon, 23 May 2022 15:31:00 +0200</pubDate>
       
-      <guid>https://github.com/ericmelvin10/blog/tags/bienvenida/</guid>
+      <guid>https://ericmelvin10.github.io/blog/tags/bienvenida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>https://github.com/ericmelvin10/blog/tags/personal/</link>
+      <link>https://ericmelvin10.github.io/blog/tags/personal/</link>
       <pubDate>Mon, 23 May 2022 15:31:00 +0200</pubDate>
       
-      <guid>https://github.com/ericmelvin10/blog/tags/personal/</guid>
+      <guid>https://ericmelvin10.github.io/blog/tags/personal/</guid>
       <description></description>
     </item>
     

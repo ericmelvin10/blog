@@ -2,31 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ericmelvin10&#39;s page</title>
-    <link>https://github.com/ericmelvin10/blog/en/tags/</link>
+    <link>https://ericmelvin10.github.io/blog/en/tags/</link>
     <description>Recent content in Tags on Ericmelvin10&#39;s page</description>
     <image>
-      <url>https://github.com/ericmelvin10/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/ericmelvin10/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ericmelvin10.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ericmelvin10.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 May 2022 15:31:00 +0200</lastBuildDate><atom:link href="https://github.com/ericmelvin10/blog/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>personal</title>
-      <link>https://github.com/ericmelvin10/blog/en/tags/personal/</link>
-      <pubDate>Mon, 23 May 2022 15:31:00 +0200</pubDate>
-      
-      <guid>https://github.com/ericmelvin10/blog/en/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>welcome</title>
-      <link>https://github.com/ericmelvin10/blog/en/tags/welcome/</link>
-      <pubDate>Mon, 23 May 2022 15:31:00 +0200</pubDate>
-      
-      <guid>https://github.com/ericmelvin10/blog/en/tags/welcome/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ericmelvin10.github.io/blog/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
