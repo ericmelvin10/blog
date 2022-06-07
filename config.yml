@@ -1,0 +1,258 @@
+# baseURL: "https://ericmelvin10.github.io"
+baseURL: "https://github.com/ericmelvin10/blog"
+title: Ericmelvin10's page
+paginate: 5
+theme: PaperMod
+publishDir: "docs"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+defaultContentLanguage: es
+
+languages:
+  es:
+    languageName: Español
+    menu:
+      main:
+        - identifier: categories
+          name: Categorías
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Etiquetas
+          url: /tags/
+          weight: 20
+    title: "Página personal de Ericmelvin10"
+    description: "Blog personal de Ericmelvin10"
+    DateFormat: "2 January 2006"
+    keywords: [Blog, Personal, PaperMod, ericmelvin10, seguridad, IT, tecnología]
+    icon:   #/apple-touch-icon.png
+    # home-info mode
+    homeInfoParams:
+        Title: "Hola! \U0001F44B"
+        Content: "💻 Ingeniero informático
+        🏴‍☠️ Máster en Seguridad
+        🎸 Guitarrista
+        🎷 Aprendiz de saxofonista
+        🏑 Portero de hockey patines (retirado)
+        🔫 Jugador de paintball
+        🥎 Jugador de pádel
+        ♠♥♣♦ Mago"
+    weight: 1
+  en:
+    languageName: English
+    menu:
+      main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+    title: "Ericmelvin10's page"
+    description: "Ericmelvin10's personal blog"
+    DateFormat: "January 2, 2006"
+    keywords: [Blog, Portfolio, PaperMod, ericmelvin10, security, IT, tech]
+    icon:   #/apple-touch-icon.png
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: "💻 Computer Engineer
+        🏴‍☠️ Security Master
+        🎸 Guitar player
+        🎷 Saxophone beginner
+        🏑 Hockey Goalkeeper (retired)
+        🔫 Paintball Player
+        🥎 Padel player
+        ♠♥♣♦ Magician"
+    weight: 3
+  cat:
+    languageName: Català
+    menu:
+      main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Etiquetes
+          url: /tags/
+          weight: 20
+    title: "Pàgina personal d'Ericmelvin10"
+    description: "Bloc personal d'Ericmelvin10"
+    keywords: [Blog, Personal, PaperMod, ericmelvin10, seguretat, IT, tecnologia]
+    # home-info mode
+    homeInfoParams:
+        Title: "Hola! \U0001F44B"
+        Content: "💻 Enginyer informàtic
+        🏴‍☠️ Máster en Seguretat
+        🎸 Guitarrista
+        🎷 Aprenent de saxofonista
+        🏑 Porter d'hoquei patins (retirat)
+        🔫 Jugador de paintball
+        🥎 Jugador de pàdel
+        ♠♥♣♦ Mag"
+    weight: 2
+
+
+
+enableEmoji: true
+
+
+googleAnalytics: G-24514ZLNDD
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ericmelvin10's page
+  description: "Ericmelvin10's personal blog"
+  keywords: [Blog, Portfolio, PaperMod, ericmelvin10, security, IT, tech]
+  author: ericmelvin10
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2 January 2006"
+  defaultTheme: dark # auto dark, light
+  disableThemeToggle: false # true # false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://avatars.githubusercontent.com/u/25769477?v=4"
+
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Ericmelvin10"
+    icon: #/apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Ericmelvin10
+    subtitle: "This is subtitle"
+    imageUrl: ""
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "💻 Computer Engineer
+    🏴‍☠️ Security Master
+    🎸 Guitar player
+    🎷 Saxophone beginner
+    🏑 Hockey Goalkeeper (retired)
+    🔫 Paintball Player
+    🥎 Padel player
+    ♠♥♣♦ Magician"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/adrian-aceituno-ortego/"
+    - name: twitter
+      url: "https://twitter.com/ericmelvin10"
+    - name: instagram
+      url: "https://instagram.com/ericmelvin10"
+    - name: youtube
+      url: "https://youtube.com/ericmelvin10"
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/ericmelvin10"
+    - name: stackoverflow
+      url: "https://stackexchange.com/users/25321546/ericmelvin10"
+    - name: github
+      url: "https://github.com/ericmelvin10"
+   # - name: facebook
+   #  url: "https://www.facebook.com/Adrian.Aceituno.Musico"
+   # - name: soundcloud
+   #   url: "https://soundcloud.com/ericmelvin10"
+   # - name: facebook
+   #   url: "https://www.facebook.com/Adrian.Aceituno.Deportes"
+    - name: wishlistr
+      url: "https://www.wishlistr.com/ericmelvin10"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    #bing:
+      #SiteVerificationTag: "XYZabc"
+    #yandex:
+      #SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/blog/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: website
+      name: example.org
+      url: https://example.org
+      weight: 30
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
